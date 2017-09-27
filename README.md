@@ -14,6 +14,12 @@ Server = http://r.arch.random.supplies/$arch
 pacman -Sy randomsupplies/epub2txt
 ```
 
+#### Installing (OS X)
+
+```
+brew install excitoon/user/epub2txt
+```
+
 #### More information
 
 For more information about epub2txt see
