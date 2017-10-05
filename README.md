@@ -20,6 +20,15 @@ pacman -Sy randomsupplies/epub2txt
 brew install excitoon/user/epub2txt
 ```
 
+#### Build
+
+##### Windows
+
+```
+cmake . -G "Unix Makefiles"
+make
+```
+
 #### More information
 
 For more information about epub2txt see
