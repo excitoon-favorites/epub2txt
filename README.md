@@ -20,6 +20,20 @@ pacman -Sy randomsupplies/epub2txt
 brew install excitoon/user/epub2txt
 ```
 
+#### Installing (Windows)
+
+##### Add repository
+
+```
+scoop bucket add user https://github.com/excitoon/scoop-user.git
+```
+
+##### Install
+
+```
+scoop install user/epub2txt
+```
+
 #### Build
 
 ##### Windows
